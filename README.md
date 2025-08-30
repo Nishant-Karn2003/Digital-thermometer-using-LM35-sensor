@@ -1,4 +1,4 @@
-# Digital-thermometer-using-LM35-sensor
+
 
 # Digital Thermometer using LM35 Sensor and Arduino  
 
